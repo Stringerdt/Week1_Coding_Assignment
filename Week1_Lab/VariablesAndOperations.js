@@ -41,3 +41,5 @@ let fullName = firstName + " " + middleInitial + " Stringer";
 
 //print a line to the console that introduces the customer and says they live at the address variable
 console.log(`${fullName} currently resides at ${address}`);
+
+console.log('testing github file change');
